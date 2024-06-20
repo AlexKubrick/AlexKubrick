@@ -6,7 +6,17 @@
 Владею несколькими языками:
 - Английский — С2 (сертификат — https://www.efset.org/cert/DzTxNj)
 - Немецкий — B2
-- Украинский — C2 (билингв)
+- Украинский — C2
+
+-------
+### ABOUT ME
+As a self-taught Android developer, I have immersed myself in a diverse range of resources, including Google's courses, codelabs, and materials from institutions like Polytechnic University of St. Petersburg, ITMO University, and Moscow State University. Complementing these, I have studied "Android Programming: The Big Nerd Ranch Guide".
+
+I speak several languages:
+- English — C2 (certificate - https://www.efset.org/cert/DzTxNj)
+- German — B2
+- Ukrainian — C2
+- Russian — native
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
